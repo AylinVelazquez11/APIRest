@@ -1,0 +1,22 @@
+{
+  "name": "holamundo.js",
+  "version": "1.0.0",
+  "description": "Expressjs",
+  "main": "holamundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AylinVelazquez11/APIRest.git"
+  },
+  "author": "Aylin Velazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AylinVelazquez11/APIRest/issues"
+  },
+  "homepage": "https://github.com/AylinVelazquez11/APIRest#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
